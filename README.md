@@ -48,6 +48,6 @@
 ---
 
 ### 🔗 **Let's Connect**
-- 📧 **Email**: [sudhanshu.suvasiya.ay07@gmail.com](mailto:sudhanshusuvasiya37@gmail.com)
+- 📧 **Email**: [sudhanshusuvasiya37@gmail.com](mailto:sudhanshusuvasiya37@gmail.com)
 - 💼 **LinkedIn**: [Sudhanshu Suvasiya](https://www.linkedin.com/in/sudhanshusuv/)
 - 🐱 **GitHub**: [ANeuronI](https://github.com/ANeuronI)
