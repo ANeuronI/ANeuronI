@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey, I'm @ANeuronI </h2>
+<h1 align="center">👋 Hey, I'm @ANeuronI </h1>
 
 ### 🚀 **AI/ML Enthusiast | Full-Stack Developer**
 
