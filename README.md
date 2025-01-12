@@ -1,6 +1,6 @@
-# 👋 Hey, I'm @ANeuronI
+<h1 align="center">👋 Hey, I'm @ANeuronI </h1>
 
-### 🚀 **AI/ML Enthusiast | Full-Stack Developer**
+ <h1 align="center"> 🚀 AI/ML Enthusiast | Full-Stack Developer </h1>
 
 - 🎓 **Computer Science and Engineering with specialization in Artificial Intelligence**
 - 💡 Passionate about **Generative AI**, **AI Agents**, and **Scalable Web Apps**.
