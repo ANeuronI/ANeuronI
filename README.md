@@ -33,7 +33,6 @@
 ### 📊 **GitHub Stats**
 
 ![Sudhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANeuronI&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANeuronI&layout=compact&theme=radical)
 
 ---
