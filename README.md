@@ -30,6 +30,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)&nbsp;
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)&nbsp;
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=flat&logo=github-actions&logoColor=white)&nbsp;
 
 ---
 
