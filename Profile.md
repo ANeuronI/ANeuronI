@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sudhanshu Suvasiya
 
-### 🚀 **AI/ML Developer | Full-Stack Developer**
+### 🚀 **AI/ML Enthusiast | Full-Stack Developer**
 
 - 🎓 **Computer Science with AI** student at **Netaji Subhas University of Technology**.
 - 💡 Passionate about **Generative AI**, **AI Agents**, and **Scalable Web Apps**.
