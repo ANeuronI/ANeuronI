@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Sudhanshu Suvasiya
 
-### 🚀 **AI Enthusiast | Full-Stack Developer | Problem Solver**
+### 🚀 **AI/ML Developer | Full-Stack Developer**
 
 - 🎓 **Computer Science with AI** student at **Netaji Subhas University of Technology**.
-- 💡 Passionate about **Generative AI**, **Conversational Agents**, and **Scalable Web Apps**.
-- 🌱 Currently exploring **LangChain**, **LlamaIndex**, and **Advanced AI Architectures**.
+- 💡 Passionate about **Generative AI**, **AI Agents**, and **Scalable Web Apps**.
+- 🌱 Currently exploring **advancements in Generative AI frameworks and tools**.
 - 📫 **Let's connect**: [Email](mailto:sudhanshu.suvasiya.ay07@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sudhanshusuv/) | [GitHub](https://github.com/ANeuronI)
 
 ---
@@ -37,46 +37,6 @@
 
 ---
 
-### 🚀 **Featured Projects**
-
-#### **1. Advanced Conversational AI Agent**
-![AI Agent](https://img.shields.io/badge/AI_Agent-FF6600?style=flat)
-- **Tech Stack**: LangChain, LlamaIndex, GROQ, Hugging-Face, Streamlit.
-- **Description**: Built a context-aware AI agent with web search and summarization capabilities.
-- **Features**:
-  - Multi-LLM chain for complex queries.
-  - Integrated Llama3:70B for high-level searches.
-- [GitHub Link](https://github.com/ANeuronI/Advanced-Conversational-AI-Agent) *(Add your project link here)*
-
-#### **2. UniChat - Full Stack Social Media Platform**
-![UniChat](https://img.shields.io/badge/UniChat-61DAFB?style=flat)
-- **Tech Stack**: NextJS, TypeScript, MongoDB, Clerk, Tailwind CSS.
-- **Description**: A scalable platform for university students to discuss exams and share advice.
-- **Features**:
-  - Real-time notifications and 35% faster load times.
-  - Secure authentication with Clerk.
-- [GitHub Link](https://github.com/ANeuronI/UniChat) *(Add your project link here)*
-
-#### **3. Olverse - AI-Driven Chat Application**
-![Olverse](https://img.shields.io/badge/Olverse-4285F4?style=flat)
-- **Tech Stack**: NextJS, Firebase, GROQ, Llama3:70B.
-- **Description**: A real-time chat app with personalized AI interactions.
-- **Features**:
-  - 40% performance boost using Llama3:70B.
-  - Secure backend with NextAuth.
-- [GitHub Link](https://github.com/ANeuronI/Olverse) *(Add your project link here)*
-
-#### **4. MRI-Based Brain Cancer Detection**
-![Brain Cancer Detection](https://img.shields.io/badge/Brain_Cancer_Detection-47A248?style=flat)
-- **Tech Stack**: PyTorch, Scikit-Learn, Gradio.
-- **Description**: An AI system for detecting brain cancer using MRI scans.
-- **Features**:
-  - 25% improvement in diagnostic accuracy.
-  - Automated labeling with 85-90% accuracy.
-- [GitHub Link](https://github.com/ANeuronI/MRI-Brain-Cancer-Detection) *(Add your project link here)*
-
----
-
 ### 📊 **GitHub Stats**
 
 ![Sudhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANeuronI&show_icons=true&theme=radical)
@@ -85,40 +45,19 @@
 
 ---
 
-### 🌟 **Achievements**
-- 🏆 **Coordinated large-scale events** with 2000-3000 participants at **NAKSHTRA**.
-- 🎯 **Mentored 20+ juniors** in astronomy and mathematics workshops.
-- 🚀 **Boosted user engagement by 15%** in UniChat through innovative features.
-
----
-
-### 📚 **Blogs & Articles**
-*(Add links to any blogs or articles you've written)*
-- [How I Built an AI Chatbot with LangChain and LlamaIndex](#)
-- [Scaling Full-Stack Apps with NextJS and Firebase](#)
-
----
-
 ### 🎨 **Fun Facts About Me**
 - 🌌 **Astronomy Enthusiast**: Love stargazing and learning about the universe.
 - 🎮 **Gamer**: Enjoy strategy games and coding challenges.
-- 🎸 **Music Lover**: Play guitar in my free time.
+- 🎸 **Music Lover**: Love exploring different genres of music.
 
 ---
 
 ### 🔗 **Let's Connect**
 - 📧 **Email**: [sudhanshu.suvasiya.ay07@gmail.com](mailto:sudhanshu.suvasiya.ay07@gmail.com)
 - 💼 **LinkedIn**: [Sudhanshu Suvasiya](https://www.linkedin.com/in/sudhanshusuv/)
-- 🐦 **Twitter**: [Your Twitter Handle](#) *(Add your Twitter link here)*
-
----
-
-### 🎯 **Goals for 2024**
-- Contribute to **open-source AI projects**.
-- Build a **scalable AI platform** for real-world problems.
-- Collaborate with developers worldwide to create innovative solutions.
+- 🐱 **GitHub**: [ANeuronI](https://github.com/ANeuronI)
 
 ---
 
 ### 📜 **Quote I Live By**
-> "The best way to predict the future is to create it." – Peter Drucker
+> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
