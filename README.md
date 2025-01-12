@@ -51,8 +51,4 @@
 - 📧 **Email**: [sudhanshu.suvasiya.ay07@gmail.com](mailto:sudhanshu.suvasiya.ay07@gmail.com)
 - 💼 **LinkedIn**: [Sudhanshu Suvasiya](https://www.linkedin.com/in/sudhanshusuv/)
 - 🐱 **GitHub**: [ANeuronI](https://github.com/ANeuronI)
-
 ---
-
-### 📜 **Quote I Live By**
-> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
