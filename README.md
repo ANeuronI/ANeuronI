@@ -5,7 +5,7 @@
 - 🎓 **Computer Science and Engineering with specialization in Artificial Intelligence**
 - 💡 Passionate about **Generative AI**, **AI Agents**, and **Scalable Web Apps**.
 - 🌱 Currently exploring **advancements in Generative AI frameworks and tools**.
-- 📫 **Let's connect**: [Email](mailto:sudhanshusuvasiya37@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sudhanshusuv/) | [GitHub](https://github.com/ANeuronI)
+- 📫 **Let's connect**:[GitHub](https://github.com/ANeuronI)
 
 ---
 
@@ -46,8 +46,3 @@
 - 🎸 **Music Lover**: Love exploring different genres of music.
 
 ---
-
-### 🔗 **Let's Connect**
-- 📧 **Email**: [sudhanshusuvasiya37@gmail.com](mailto:sudhanshusuvasiya37@gmail.com)
-- 💼 **LinkedIn**: [Sudhanshu Suvasiya](https://www.linkedin.com/in/sudhanshusuv/)
-- 🐱 **GitHub**: [ANeuronI](https://github.com/ANeuronI)
