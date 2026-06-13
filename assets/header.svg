@@ -1,0 +1,98 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="&#39;JetBrains Mono&#39;, ui-monospace, monospace">
+  <defs>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0 H0 V64" fill="none" stroke="rgba(255,255,255,0.045)" stroke-width="1"></path>
+    </pattern>
+    <radialGradient id="spot" cx="18%" cy="-10%" r="75%">
+      <stop offset="0%" stop-color="#c5f24e" stop-opacity="0.13"></stop>
+      <stop offset="70%" stop-color="#c5f24e" stop-opacity="0"></stop>
+    </radialGradient>
+    <radialGradient id="spot2" cx="88%" cy="55%" r="55%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.10"></stop>
+      <stop offset="70%" stop-color="#5eead4" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="cyber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dcff7d"></stop>
+      <stop offset="55%" stop-color="#c5f24e"></stop>
+      <stop offset="100%" stop-color="#5eead4"></stop>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c5f24e" stop-opacity="0.05"></stop>
+      <stop offset="50%" stop-color="#c5f24e" stop-opacity="0.42"></stop>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0.18"></stop>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"></feGaussianBlur>
+      <feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+    <clipPath id="card"><rect x="1" y="1" width="1278" height="338" rx="24"></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="338" rx="24" fill="#050609" stroke="rgba(255,255,255,0.08)"></rect>
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="1280" height="340" fill="url(#grid)"></rect>
+    <rect x="0" y="0" width="1280" height="340" fill="url(#spot)"></rect>
+    <rect x="0" y="0" width="1280" height="340" fill="url(#spot2)"></rect>
+
+    
+    <g fill="#c5f24e">
+      <circle cx="690" cy="58" r="1.6" opacity="0.5"></circle>
+      <circle cx="930" cy="300" r="1.6" opacity="0.45"></circle>
+      <circle cx="1248" cy="120" r="1.6" opacity="0.4"></circle>
+      <circle cx="600" cy="250" r="1.4" opacity="0.35"></circle>
+      <circle cx="1190" cy="40" r="2" opacity="0.55"></circle>
+      <circle cx="500" cy="300" r="1.4" opacity="0.3"></circle>
+    </g>
+
+    
+    <g stroke-width="1.2">
+      
+      <g stroke="url(#edge)">
+        <line x1="820" y1="110" x2="960" y2="80"></line><line x1="820" y1="110" x2="960" y2="150"></line><line x1="820" y1="110" x2="960" y2="220"></line><line x1="820" y1="110" x2="960" y2="290"></line>
+        <line x1="820" y1="190" x2="960" y2="80"></line><line x1="820" y1="190" x2="960" y2="150"></line><line x1="820" y1="190" x2="960" y2="220"></line><line x1="820" y1="190" x2="960" y2="290"></line>
+        <line x1="820" y1="270" x2="960" y2="80"></line><line x1="820" y1="270" x2="960" y2="150"></line><line x1="820" y1="270" x2="960" y2="220"></line><line x1="820" y1="270" x2="960" y2="290"></line>
+      </g>
+      
+      <g stroke="url(#edge)">
+        <line x1="960" y1="80" x2="1110" y2="130"></line><line x1="960" y1="80" x2="1110" y2="240"></line>
+        <line x1="960" y1="150" x2="1110" y2="130"></line><line x1="960" y1="150" x2="1110" y2="240"></line>
+        <line x1="960" y1="220" x2="1110" y2="130"></line><line x1="960" y1="220" x2="1110" y2="240"></line>
+        <line x1="960" y1="290" x2="1110" y2="130"></line><line x1="960" y1="290" x2="1110" y2="240"></line>
+      </g>
+      
+      <g stroke="url(#edge)">
+        <line x1="1110" y1="130" x2="1210" y2="185"></line><line x1="1110" y1="240" x2="1210" y2="185"></line>
+      </g>
+    </g>
+    
+    <g fill="#0b0d12" stroke="#c5f24e" stroke-width="1.5">
+      <circle cx="820" cy="110" r="7"></circle><circle cx="820" cy="190" r="7"></circle><circle cx="820" cy="270" r="7"></circle>
+      <circle cx="960" cy="80" r="7"></circle><circle cx="960" cy="150" r="7"></circle><circle cx="960" cy="220" r="7"></circle><circle cx="960" cy="290" r="7"></circle>
+      <circle cx="1110" cy="130" r="7"></circle><circle cx="1110" cy="240" r="7"></circle>
+    </g>
+    
+    <g fill="#c5f24e" filter="url(#glow)">
+      <circle cx="960" cy="150" r="7.5"></circle>
+      <circle cx="1110" cy="130" r="7.5"></circle>
+      <circle cx="1210" cy="185" r="9"></circle>
+    </g>
+    <circle cx="820" cy="190" r="7.5" fill="#5eead4"></circle>
+
+    
+    <g transform="translate(74,122)" filter="url(#glow)">
+      <path fill="url(#cyber)" fill-rule="evenodd" d="M52 8 L40 8 L8 92 L30 92 L37 70 L63 70 L70 92 L92 92 L60 8 L52 8 Z M50 40 L41 64 L59 64 L50 40 Z"></path>
+      <path fill="#dcff7d" d="M70 92 L63 70 L73 70 L82 92 Z"></path>
+    </g>
+
+    
+    <text x="214" y="160" font-size="14" letter-spacing="4" fill="#c5f24e">// GENAI · ML ENGINEER</text>
+    <text x="212" y="222" font-family="&#39;Space Grotesk&#39;, &#39;Segoe UI&#39;, system-ui, sans-serif" font-size="56" font-weight="600" letter-spacing="-1" fill="url(#cyber)" filter="url(#glow)"><tspan fill="#9af7e5">@</tspan>ANeuronI</text>
+
+    
+    <g transform="translate(1058,40)">
+      <rect x="0" y="0" width="158" height="34" rx="17" fill="#0b0d12" stroke="rgba(255,255,255,0.12)"></rect>
+      <circle cx="22" cy="17" r="4" fill="#c5f24e"></circle>
+      <text x="38" y="21" font-size="11" letter-spacing="2" fill="#eceef2">OPEN SOURCE</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="1280" height="100" viewBox="0 0 1280 100" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="&#39;JetBrains Mono&#39;, ui-monospace, monospace">
+  <defs>
+    <pattern id="gridf" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0 H0 V64" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"></path>
+    </pattern>
+    <clipPath id="cardf"><rect x="1" y="1" width="1278" height="98" rx="20"></rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1278" height="98" rx="20" fill="#050609" stroke="rgba(255,255,255,0.08)"></rect>
+  <g clip-path="url(#cardf)">
+    <rect x="0" y="0" width="1280" height="100" fill="url(#gridf)"></rect>
+    <text x="640" y="56" text-anchor="middle" font-size="14" letter-spacing="3" fill="#c5f24e">★  thanks for stopping by  ★</text>
+  </g>
+</svg>
