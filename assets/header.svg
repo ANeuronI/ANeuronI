@@ -79,9 +79,9 @@
     <circle cx="820" cy="190" r="7.5" fill="#5eead4"></circle>
 
     
-    <g transform="translate(74,122)" filter="url(#glow)">
-      <path fill="url(#cyber)" fill-rule="evenodd" d="M52 8 L40 8 L8 92 L30 92 L37 70 L63 70 L70 92 L92 92 L60 8 L52 8 Z M50 40 L41 64 L59 64 L50 40 Z"></path>
-      <path fill="#dcff7d" d="M70 92 L63 70 L73 70 L82 92 Z"></path>
+    <g transform="translate(72,128)" filter="url(#glow)" fill="url(#cyber)">
+      <path d="M 95 15 L 45 15 L 25 35 L 25 48 L 60 48 L 70 38 L 95 38 Z"></path>
+      <path d="M 5 85 L 55 85 L 75 65 L 75 52 L 40 52 L 30 62 L 5 62 Z"></path>
     </g>
 
     
