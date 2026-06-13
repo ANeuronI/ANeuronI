@@ -36,7 +36,7 @@ class ANeuronI:
 ### `~/ activity`
 
 <div align="center">
-  <img alt="Contribution graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANeuronI&bg_color=050609&hide_border=true&hide_title=false&custom_title=&title_color=c5f24e&color=9aa2ad&line=c5f24e&point=5eead4&area=true&area_color=c5f24e&radius=12&days=365" />
+  <img alt="Contribution graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANeuronI&bg_color=050609&hide_border=true&hide_title=true&title_color=c5f24e&color=9aa2ad&line=c5f24e&point=5eead4&area=true&area_color=c5f24e&radius=12&days=365" />
 </div>
 
 ### `~/ reach`
